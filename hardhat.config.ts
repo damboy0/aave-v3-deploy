@@ -88,6 +88,7 @@ export default {
       eHarmonyNetwork.main,
       1666600000
     ),
+    
     [eHarmonyNetwork.testnet]: getCommonNetworkConfig(
       eHarmonyNetwork.testnet,
       1666700000
